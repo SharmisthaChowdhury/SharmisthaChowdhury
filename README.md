@@ -1,4 +1,4 @@
-## Hi there 👋, Hi 👋, I'm Sharmistha Chowdhury
+## Hi there 👋,  I'm Sharmistha Chowdhury
 #### A passionate frontend developer from India
 3rd-year Information Technology student with a strong foundation in programming languages and web development. Eager to apply my technical skills and passion for technology to contribute effectively to real-world projects and enhance my learning experience.
 
