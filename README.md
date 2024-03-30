@@ -1,5 +1,5 @@
 <h1 align="center"><em>Hello, <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> I'm Sharmistha Chowdhury</em></h1>
-<h3 align="center"><em>A passionate frontend developer from India</em></h3>
+<h3 align="center"><em>A passionate Full Stack Web Developer from India</em></h3>
 
 - 📫 How to reach me: sharmisthachowdhury728@gmail.com
 <h3 align="left">Connect with me:</h3>
